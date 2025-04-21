@@ -1,0 +1,2 @@
+Apache HTTP server configuration.
+Porta inicial 80 porem eu mudei para 8090, quando for digitar a url que antes era só localhost/ agora é assim localhost:8090
